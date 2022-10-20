@@ -1,6 +1,8 @@
 # Predicting-Air-Quality-Index-in-India
 A Silent Killer in India: Air Pollution 
 
+Group 15: Jia Xu, Yuluan Cao, Yuqin Zhang
+
 
 # Background
 Air pollution has become one of the largest environmental health threats around the globe. India is among one of the most polluted countries in the world. According to 2021 World Air Quality Report, 12 out of 15 most polluted regional cities are in India.
